@@ -19,7 +19,7 @@ Working in publishing is a tough profession and many people who want to work in 
 
 ## Code and Resources Used 
 **Python Version:** 3.8.5  
-**Packages:** re, pandas, numpy, matplotlib, seaborn  
+**Packages:** re, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
 **UK Publishing Dataset:** https://sourceful.co.uk/doc/350/book-publishing-salary-transparency-uk   
 
 ## About the Data
