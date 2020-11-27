@@ -3,6 +3,8 @@
 ## Overview 
 Working in publishing is a tough profession and many people who want to work in the industry do not know what salary they can expect when starting out. In this analysis, we will analyse the self-reported salaries of people who work at different levels within the publishing industry in the UK. We will explore patterns in the data and also try to develop a model that we can use to predict salary based on a selected set of features.
  
+[**Click here to view the notebook in nbviewer**](https://nbviewer.jupyter.org/github/dan-grant-hunter/UK_Publishing_Analysis/blob/main/book_publishing.ipynb)
+ 
 ## Summary of Findings
 * On average, the majority of individuals who work in publishing in the UK appear to be straight, white women who occupy full-time positions.  
 
