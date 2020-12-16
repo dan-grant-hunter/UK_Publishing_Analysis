@@ -1,7 +1,7 @@
 # UK Book Publishing Analysis
 
 ## Overview 
-Working in publishing is a tough profession and many people who want to work in the industry do not know what salary they can expect when starting out. In this analysis, we will analyse the self-reported salaries of people who work at different levels within the publishing industry in the UK. We will explore patterns in the data and also try to develop a model that we can use to predict salary based on a selected set of features.
+Working in publishing is a tough profession and many people who want to work in the industry do not know what salary they can expect when starting out. In this analysis, I analysed the self-reported salaries of people who work at different levels within the publishing industry in the UK. I explored patterns in the data and also developed a model that can be used to predict salary based on a selected set of features.
  
 [**Click here to view the notebook in nbviewer**](https://nbviewer.jupyter.org/github/dan-grant-hunter/UK_Publishing_Analysis/blob/main/book_publishing.ipynb)
  
@@ -47,10 +47,10 @@ To read more about the campaign, visit: https://www.bookjobtransparency.co.uk/
 In the EDA, I looked at some of the relationships between the self-reported salaries of individuals working in the publishing industry and features such as years spent in publishing, employment status, race/ethnicity, gender identity and sexual orientation. I also analysed the most popular words from people's job titles.
 
 Below are a few highlights from the analysis. 
-  
+
 ![alt text](images/book_pub1.png "Salary Distribution")  
-  
+
 ![alt text](images/book_pub2.png "Scatter Plot for Salary and Years in Publishing")
 ![alt text](images/book_pub3.png "Line Plot for Salary and Years in Publishing")  
-  
+
 ![alt text](images/wordcloud.png "Job Title Wordcloud")  
